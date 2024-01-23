@@ -1,0 +1,15 @@
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.csproj.AssemblyReference.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.AssemblyInfoInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.AssemblyInfo.cs
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.csproj.CoreCompileInputs.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\bin\Debug\net6.0\homework string.exe
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\bin\Debug\net6.0\homework string.deps.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\bin\Debug\net6.0\homework string.runtimeconfig.json
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\bin\Debug\net6.0\homework string.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\bin\Debug\net6.0\homework string.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\refint\homework string.dll
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.pdb
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\homework string.genruntimeconfig.cache
+C:\Users\Денисок.DESKTOP-MFV88Q2\Desktop\homework string\obj\Debug\net6.0\ref\homework string.dll
